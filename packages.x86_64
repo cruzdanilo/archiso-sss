@@ -1,0 +1,6 @@
+base
+base-devel
+linux
+mkinitcpio
+mkinitcpio-archiso
+syslinux
